@@ -10,9 +10,4 @@
 @import url('./container.css');
 @import url('./animations.css');
 
-/* Sections style */
-@import url('./header.css');
-@import url('./back-link.css');
-
-@import url('./gallery.css');
-@import url('./form.css');
+@import url('./image-search.css');
